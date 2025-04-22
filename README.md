@@ -31,6 +31,7 @@ This project clusters Spotify tracks based on audio features like danceability, 
 ---
 
 ## 📂 Project Structure
+```
 song-recommendation-system/
 │── config/                       # Configuration files
 │── src/
@@ -44,6 +45,7 @@ song-recommendation-system/
 │── requirements.txt                 # Required Python packages
 │── app.py                           # Streamlit app
 │── README.md                        # Project Documentation
+```
 ---
 
 ## 🚀 How to Run Locally
