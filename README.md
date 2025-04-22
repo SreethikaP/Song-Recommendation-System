@@ -31,9 +31,19 @@ This project clusters Spotify tracks based on audio features like danceability, 
 ---
 
 ## 📂 Project Structure
-song-recommendation-system/ │ ├── config/ ├── src/ │ ├── components/ │ ├── pipeline/ │ ├── utils/ │ ├── logger.py │ ├── exception.py ├── models/ ├── artifacts/ ├── data/ ├── logs/ ├── app.py ├── requirements.txt ├── setup.py ├── README.md
-
-
+song-recommendation-system/
+│── config/                       # Configuration files
+│── src/
+│   ├── pipeline/                  # Data ingestion, preprocessing, training
+│   ├── components/                 # Model components
+│   ├── utils/                       # Helper functions
+│   ├── data/                        # Training datasets
+│   ├── models/                      # Trained models
+│   ├── mlruns/                      # MLflow experiment tracking
+│── .github/workflows/deploy.yml     # CI/CD for auto deployment
+│── requirements.txt                 # Required Python packages
+│── app.py                           # Streamlit app
+│── README.md                        # Project Documentation
 ---
 
 ## 🚀 How to Run Locally
