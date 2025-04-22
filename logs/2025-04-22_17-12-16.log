@@ -1,6 +1,0 @@
-2025-04-22 17:12:16,475 - INFO - Loaded trained model from models/kmeans_model.pkl
-2025-04-22 17:12:16,991 - INFO - Loaded dataset from data/songs.csv
-2025-04-22 17:12:39,049 - INFO - Loaded trained model from models/kmeans_model.pkl
-2025-04-22 17:12:39,607 - INFO - Loaded dataset from data/songs.csv
-2025-04-22 17:12:41,311 - INFO - Loaded trained model from models/kmeans_model.pkl
-2025-04-22 17:12:41,824 - INFO - Loaded dataset from data/songs.csv
