@@ -1,0 +1,6 @@
+2025-04-22 14:03:00,870 - INFO - Starting data ingestion.
+2025-04-22 14:03:01,426 - INFO - Dataset loaded successfully. Shape: (232725, 18)
+2025-04-22 14:03:01,426 - INFO - Starting model training pipeline.
+2025-04-22 14:03:04,671 - INFO - Optimal number of clusters selected: 5
+2025-04-22 14:03:04,820 - INFO - Model saved successfully at models/kmeans_model.pkl.
+2025-04-22 14:03:05,149 - ERROR - Error occurred during model training.

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/690265925465993056/e52e0a435aea48f6b9aa5a08d58668e6/artifacts
+end_time: 1745348799296
+entry_point_name: ''
+experiment_id: '690265925465993056'
+lifecycle_stage: active
+run_id: e52e0a435aea48f6b9aa5a08d58668e6
+run_name: shivering-panda-618
+run_uuid: e52e0a435aea48f6b9aa5a08d58668e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745348795881
+status: 3
+tags: []
+user_id: sreethikapadala

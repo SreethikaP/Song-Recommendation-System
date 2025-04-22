@@ -1,0 +1,11 @@
+data_path: data/songs.csv
+model_path: models/kmeans_model.pkl
+selected_features:
+  - danceability
+  - energy
+  - valence
+  - tempo
+  - liveness
+  - speechiness
+  - acousticness
+mlflow_uri: http://127.0.0.1:5000
