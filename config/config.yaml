@@ -8,4 +8,4 @@ selected_features:
   - liveness
   - speechiness
   - acousticness
-mlflow_uri: http://127.0.0.1:5000
+mlflow_uri: https://dagshub.com/SreethikaP/Song-Recommendation-System.mlflow
